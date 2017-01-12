@@ -1,4 +1,4 @@
-# NaiveBayesClassifier - Using Python
+# NaiveBayesClassifier - Email Spam Finder - Using python
 
 The Naive Bayes algorithm is simple and effective and should be one of the first methods you try on a classification problem.
 
